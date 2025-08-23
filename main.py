@@ -6,7 +6,7 @@ from pettingzoo.classic import texas_holdem_no_limit_v6
 
 import numpy as np
 from pettingzoo.classic import texas_holdem_no_limit_v6
-from supersuit import pad_observations_v0, pad_action_space_v0
+# from supersuit import pad_observations_v0, pad_action_space_v0
 
 # ---------- 1.  initialise a 4-player table ----------
 env = texas_holdem_no_limit_v6.env(
